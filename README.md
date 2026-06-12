@@ -71,16 +71,10 @@ Objetivos
 - Especializarme en desarrollo backend y arquitectura de software.
 - Mantener un aprendizaje continuo en tecnologías emergentes.
 
-Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&locale=es)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&locale=es)
 
 Contacto
 
-- GitHub: https://github.com/TU_USUARIO
-- LinkedIn: https://linkedin.com/in/TU_USUARIO
+- GitHub: https://github.com/barreto1321
 
 ---
 
